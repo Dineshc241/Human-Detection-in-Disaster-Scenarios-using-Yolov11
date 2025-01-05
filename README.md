@@ -49,6 +49,7 @@ Disaster situations like floods, earthquakes, and fires pose challenges for dete
 2. Install Dependencies:
 ```bash
 pip install -r requirements.txt
+
 ```
 
 3. Download the dataset:
