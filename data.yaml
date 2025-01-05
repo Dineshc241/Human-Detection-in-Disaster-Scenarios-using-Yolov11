@@ -1,0 +1,7 @@
+train: C:\Users\ppt59\Desktop\working projects\Dinesh\dataset_split\train\images
+val: C:\Users\ppt59\Desktop\working projects\Dinesh\dataset_split\val\images
+test: C:\Users\ppt59\Desktop\working projects\Dinesh\dataset_split\test\images
+
+nc: 5
+names: ['Bent', 'Kneeling', 'Lying', 'Sitting', 'Upright']
+
